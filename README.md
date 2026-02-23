@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7atoom/PS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7atoom/PS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/7atoom/PS/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
@@ -39,8 +40,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7atoom/PS/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7atoom/PS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7atoom/PS/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7atoom/PS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
