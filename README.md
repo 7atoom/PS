@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7atoom/PS/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/7atoom/PS/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/7atoom/PS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/7atoom/PS/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7atoom/PS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/7atoom/PS/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/7atoom/PS/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
