@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/7atoom/PS/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/7atoom/PS/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/7atoom/PS/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/7atoom/PS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/7atoom/PS/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7atoom/PS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7atoom/PS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/7atoom/PS/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/7atoom/PS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/7atoom/PS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/7atoom/PS/tree/master/0217-contains-duplicate) |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/7atoom/PS/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/7atoom/PS/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
